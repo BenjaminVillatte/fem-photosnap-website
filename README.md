@@ -40,7 +40,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Nuxt.js](https://nuxtjs.org/) - React framework
+- [Nuxt.js](https://nuxtjs.org/) - Vuejs framework
 
 
 ## Author
